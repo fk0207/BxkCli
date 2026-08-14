@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9084f8e5-f773-4abc-9cb8-0ea289f89600" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/paicli-main" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="3G9cc5y9olmTyESQusX0cEwmrf2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bxkcli-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.21271676" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bxkcli.cli.Main" />
+      <module name="paicli-main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paicli-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="paicli-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="paicli-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/paicli-main/src/main/resources" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9084f8e5-f773-4abc-9cb8-0ea289f89600" name="Changes" comment="" />
+      <created>1783387312567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783387312567</updated>
+      <workItem from="1783387314634" duration="3435000" />
+      <workItem from="1783584072692" duration="4479000" />
+      <workItem from="1783689428652" duration="306000" />
+      <workItem from="1783730986408" duration="8658000" />
+      <workItem from="1783769607685" duration="4077000" />
+      <workItem from="1783828329747" duration="1230000" />
+      <workItem from="1783838654470" duration="5489000" />
+      <workItem from="1783844266103" duration="260000" />
+      <workItem from="1783844538047" duration="126000" />
+      <workItem from="1783844727971" duration="190000" />
+      <workItem from="1783844939299" duration="5713000" />
+      <workItem from="1783862150289" duration="4801000" />
+      <workItem from="1783937985237" duration="10155000" />
+      <workItem from="1784035237802" duration="7100000" />
+      <workItem from="1784349419755" duration="10608000" />
+      <workItem from="1784382887936" duration="6555000" />
+      <workItem from="1784433333029" duration="4908000" />
+      <workItem from="1784452915406" duration="15063000" />
+      <workItem from="1784547328920" duration="12361000" />
+      <workItem from="1784615733170" duration="6616000" />
+      <workItem from="1785138319258" duration="5613000" />
+      <workItem from="1785200077268" duration="7755000" />
+      <workItem from="1785216751750" duration="5238000" />
+      <workItem from="1785242901310" duration="5267000" />
+      <workItem from="1785284561650" duration="8263000" />
+      <workItem from="1785302023793" duration="8053000" />
+      <workItem from="1785318311646" duration="3638000" />
+      <workItem from="1785371894750" duration="7859000" />
+      <workItem from="1785458575979" duration="8673000" />
+      <workItem from="1785474299198" duration="9444000" />
+      <workItem from="1785497873633" duration="5735000" />
+      <workItem from="1785719572560" duration="13272000" />
+      <workItem from="1785751071587" duration="2374000" />
+      <workItem from="1785805805626" duration="3334000" />
+      <workItem from="1785809456675" duration="423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/paicli-main/src/main/java/com/paicli/llm/AbstractOpenAiCompatibleClient.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/paicli-main/src/main/java/com/paicli/mcp/McpServerManager.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/paicli-main/src/main/java/com/paicli/llm/AbstractOpenAiCompatibleClient.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/paicli-main/src/main/java/com/paicli/cli/Main.java</url>
+          <line>282</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="conversationHistory.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
